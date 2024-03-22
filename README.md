@@ -1,3 +1,11 @@
+# LexisNexis
+
+* It was incorporated in New York during 1970.
+
+* The company is currently own by RELX. The company that became LexisNexis was founded in the UK in 1818 by Henry Butterworth
+
+* LexisNexis is the first information services company created on the idea of bringing end users and computers together. The story begins in Western  Pennsilvania in 1956 when attorney John Horty began to exlore the use of CALR technology in support of his work on comparative hospital law at the  university of Pittsburgh Health Law Center. Instead of interacting with librarian a customer would be able to have the same type of service by int  eracting with a computer.
+
 
 *  LexisNexis UK which became LexisNexis was purchase by International Publishing Corporation (IPC). In 1970 Reed Group merged with IPC and under this new business formation a division of the company, 
    Heinemann was merged with Butterworths Scientic in 1990 wich became Butterworth-Heinemann. The Butterworths publishing business is now owned by Reed Elsevier Group (RELX). The amount paid for 
